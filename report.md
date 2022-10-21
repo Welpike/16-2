@@ -1,6 +1,6 @@
 # Compte-rendu du projet.  
 
-Nous allons voous presentez le passage de la base 16 (hexadecimal) en la base 2 (binaire)
+Nous allons vous presentez le passage de la base 16 (hexadecimal) en la base 2 (binaire)
 
 hexa <-- ("Entrez un nombre hexadécimal à convertir en binaire : ")
 bin <-- ""
