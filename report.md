@@ -62,4 +62,12 @@ Voir le fichier [pb-0.md](https://github.com/Welpike/16-2/blob/main/problems/pb-
 Voir le fichier [pb-1.md](https://github.com/Welpike/16-2/blob/main/problems/pb-1.md)  
 
 """
+# Conclusions 
+
+#### Clément   
+  
+#### Noël 
+  
+#### Pascal
+  
 
