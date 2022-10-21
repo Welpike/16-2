@@ -57,6 +57,6 @@ Le programme retourne le binaire de ce nombre par "paquets" de 4 caractères.
 
 # Erreur
 
-voir le fichier pb-0.md  
+[voir le fichier]([https://github.com/Azure/azure-content/blob/master/contributor-guide/contributor-guide-index.md](https://github.com/Welpike/16-2/blob/main/problems/pb-0.md))   
 """
 
