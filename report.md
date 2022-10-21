@@ -50,13 +50,13 @@ Entrez un nombre en hexadécimal.
 N.B : le programme prend en charge les letres A, B, C, D, E, F ainsi que leurs minuscules.
 Ex : entrer A = entrer a
 
-Le programme retourne le binaire de ce nombre par "paquets" de 4 caractères.  
+Le programme retourne le binaire de ce nombre par "paquets" de 4 caractères.    
 
 """
 """
 
 # Erreur
 
-voir le fichier pb-0.md
+voir le fichier pb-0.md  
 """
 
