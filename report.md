@@ -57,6 +57,7 @@ Le programme retourne le binaire de ce nombre par "paquets" de 4 caractères.
 
 # Erreur
 
-voir le fichier [pb-O.md](https://github.com/Welpike/16-2/blob/main/problems/pb-0.md)    
+Voir le fichier [pb-0.md](https://github.com/Welpike/16-2/blob/main/problems/pb-0.md) 
+Voir le fichier [pb-1.md](https://github.com/Welpike/16-2/blob/main/problems/pb-1.md)  
 """
 
