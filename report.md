@@ -46,18 +46,20 @@ Afficher ("Le binaire de : hexa est bin")
 
 # Notice d'Utilisation
 
-Entrez un nombre en hexadécimal.
-N.B : le programme prend en charge les letres A, B, C, D, E, F ainsi que leurs minuscules.
-Ex : entrer A = entrer a
-
-Le programme retourne le binaire de ce nombre par "paquets" de 4 caractères.    
+Le programme demande à l'utilisateur de saisir un nombre en hexadécimal.  
+N.B : le programme prend en charge les letres A, B, C, D, E, F ainsi que leurs minuscules.  
+Ex : entrer A = entrer a,  
+Le programme retourne le binaire de ce nombre par "paquets" de 4 caractères. 
+Le programme affiche l'ensemble du code binaire du code hexadecimal,  
+Le programme se termine.  
 
 """
 """
 
 # Erreur
 
-Voir le fichier [pb-0.md](https://github.com/Welpike/16-2/blob/main/problems/pb-0.md) 
+Voir le fichier [pb-0.md](https://github.com/Welpike/16-2/blob/main/problems/pb-0.md)   
 Voir le fichier [pb-1.md](https://github.com/Welpike/16-2/blob/main/problems/pb-1.md)  
+
 """
 
