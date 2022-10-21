@@ -3,37 +3,37 @@ bin <-- ""
 
 Pour le nombre de caractère "i" dans hexa:
     Si i <-- "0":
-        bin <-- plus "0000"
+        bin <-- plus "0000"  
     Et si i <-- "1":
-        bin <-- plus "0001"
+        bin <-- plus "0001"  
     Et si i <-- "2":
-        bin <-- plus "0010"
+        bin <-- plus "0010"  
     Et si i <-- "3":
-        bin plus "0011"
+        bin plus "0011"  
     Et si i <-- "4":
-        bin plus "0100"
+        bin plus "0100"  
     Et si i <-- "5":
-        bin plus "0101"
+        bin plus "0101"  
     Et si i <-- "6":
-        bin plus "0110"
-    Et si i <-- "7":
+        bin plus "0110"  
+    Et si i <-- "7":  
         bin plus "0111"
-    Et si i <-- "8":
-        bin plus "1000"
-    Et si i <-- "9":
-        bin plus "1001"
+    Et si i <-- "8":  
+        bin plus "1000"  
+    Et si i <-- "9":  
+        bin plus "1001"  
     Et si i <-- "A" or "a":
-        bin plus "1010"
+        bin plus "1010"  
     Et si i <-- "B" or "b":
-        bin plus "1011"
+        bin plus "1011"  
     Et si i <-- "C" or "c":
-        bin plus "1100"
+        bin plus "1100"  
     Et si i <-- "D" or "d":
-        bin plus "1101"
+        bin plus "1101"  
     Et si i <-- "E" or "e":
-        bin plus "1110"
+        bin plus "1110"  
     Et si i <-- "F" or "f":
-        bin plus "1111"
+        bin plus "1111"  
     bin <-- " "
 
 Afficher ("Le binaire de : hexa est bin")
