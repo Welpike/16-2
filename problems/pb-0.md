@@ -1,3 +1,5 @@
+N.B : cette erreur a été rencontrée durant le développement d'une version obsolète. Le "code réparé" n'est plus d'actualité.
+
 ## Erreur rencontree : 
 
 >Traceback (most recent call last):  
@@ -50,6 +52,4 @@ for i in range(len(hexa)):
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hex_to_dec += 14 * 16**i  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;elif char == "F":  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hex_to_dec += 15 * 16**i  
- 
-## N.B : nous avons procédé à un changement important de la structure du code depuis.
   
