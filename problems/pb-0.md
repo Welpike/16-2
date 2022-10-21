@@ -28,7 +28,7 @@ for i in range(len(hexa)):
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hex_to_dec += 15 * 16**i  
     
 Il s'agissait d'un conflit entre deux types de variables.  
-En effet, __char__ est <str> et on a essayé d'ajouter des éléments de type <int>.  
+En effet, __char__ est str et on a essayé d'ajouter des éléments de type int.  
 
 ## code réparé
   
@@ -51,3 +51,5 @@ for i in range(len(hexa)):
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;elif char == "F":  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hex_to_dec += 15 * 16**i  
  
+## N.B : nous avons procédé à un changement important de la structure du code depuis.
+  
