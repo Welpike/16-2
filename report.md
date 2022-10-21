@@ -16,11 +16,11 @@ Pour le nombre de caractère "i" dans hexa:
         bin plus "0101"  
     Et si i <-- "6":
         bin plus "0110"  
-    Et si i <-- "7":  
-        bin plus "0111"
-    Et si i <-- "8":  
-        bin plus "1000"  
-    Et si i <-- "9":  
+    Et si i <-- "7":
+        bin plus "0111"  
+    Et si i <-- "8": 
+        bin plus "1000"   
+    Et si i <-- "9":
         bin plus "1001"  
     Et si i <-- "A" or "a":
         bin plus "1010"  
