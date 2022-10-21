@@ -5,7 +5,7 @@ Nous allons vous presentez le passage de la base 16 (hexadecimal) en la base 2 (
 hexa <-- ("Entrez un nombre hexadécimal à convertir en binaire : ")
 bin <-- ""
 
-Pour le nombre de caractère "i" dans hexa:  
+Pour le nombre de caractère  dans hexa nommé "i" faire les instructions suivantes:  
     Si i <-- "0":
         bin <-- plus "0000"  
     Et si i <-- "1":
