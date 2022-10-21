@@ -1,3 +1,5 @@
+N.B : cette erreur a été rencontrée durant le développement d'une version obsolète. Cette erreur n'est plus d'actualité.
+
 ## erreur rencontrée
 
 Suite de 0 ou de 1 dans la console, à l'infini.
@@ -14,4 +16,4 @@ C'est une boucle qui ne s'arrête pas.
 
 ## code réparé
 
-pas encore!
+Nous avons résolu ce problème en faisant une mise à jour complète du programme.
