@@ -65,9 +65,9 @@ Voir le fichier [pb-1.md](https://github.com/Welpike/16-2/blob/main/problems/pb-
 # Conclusions 
 
 #### Clément   
-  
+J'ai trouver le programme simple une fois terminé car le début était dur car on s'etait compliqué la tache en essayant de passé d'abord en décimal pour ensuite passé en binaire. Aprés moulte reflexion,  nous avons trouver une methode beaucoup plus simple à réaliser, comme passé directement en binaire. J'ai adoré ce projet en groupe même si le debut etait rude, et je l'ai trouvé bien utile pour mes amélioration en codage.  
 #### Noël 
-  
+ J'ai trouver le programme assez compliqué a faire au début car on partais dans des complexité qui n'était pas utile, donc au final nous avons changez integralement le programme. Certe il est un peu plus long que l'ancien, mais plus simple à comprendre. A l'aide de mes camarades j'ai réussi à comprendre ce qui était attendu rapidement. Et suite à cela j'ai enfin pu aidé dans les démarches. Grâce au projet j'ai appris comment on pouvait contourné un problème en trouvant plus simples. Je trouve aussi qu'on a bien travaillé ensemble, car nous avons résolue les problèmes avec chacun nos capacités.  
 #### Pascal
-  
+J'ai trouvé ce projet intéressant car il nous aide à trouver des alternatives au fonctions de bases (notament lors de changement majeurs de versions de projets open-source comme python). Nous avons rencontré un problème  assez important (voir fichir pb-1.md) et nous avons changé tout le code pour trouver une nouvelle solution au problème. Je suis content d'avoir pu travailler en groupe car nous avons réussi ensemble ce projet qui ne s'annoçait pas simple, et d'avoir aidé mes camarades. J'ai hâte de faire le prochain projet !  
 
