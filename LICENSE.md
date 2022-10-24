@@ -1,4 +1,4 @@
-Copyright 2022 Noel MERANDET, Clément MILTON, Pascal LLEONART
+Copyright 2022 @noel123456789, @panoramix333, @Welpike
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in 
 the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of 
